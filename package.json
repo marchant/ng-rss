@@ -4,7 +4,7 @@
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git@github.com:declarativ/ng-rss.git"
+        "url": "git+ssh://git@github.com:declarativ/ng-rss.git"
     },
     "dependencies": {
         "montage": "0.14.10",
